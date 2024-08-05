@@ -1,9 +1,12 @@
 # Official ElaptaCoin PoW Miner
+Welcome to the official git repository of ElaptaCoin Proof of Work Miner!
 
+#### Here are features that the miner include:
+1. **Auto-Reconnect** - If some expection occur or connection would be lost the miner would restart it self. (The restarting could be interupted by pressing any key)
 
+2. **Rust hasher** - For better hashing performance we decided to code the hasher inside the Rust
 
-
-
+3. **One File** - Only one file `miner.py` needs to be executed. The hasher get's installed automatically
 
 
 
