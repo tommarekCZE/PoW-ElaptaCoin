@@ -8,7 +8,7 @@ Welcome to the official git repository of ElaptaCoin Proof of Work Miner!
 
 3. **One File** - Only one file `miner.py` needs to be executed. The hasher get's installed automatically
 
-
+4. **Auto Package Install** - The miner auto install all required packages
 
 
 # ElaptaCoin PoW Miner Setup Guide
