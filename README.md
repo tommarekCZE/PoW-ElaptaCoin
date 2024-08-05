@@ -89,6 +89,8 @@ Make sure there is `(.venv)` before path in bash
 ### 6. Run the miner
 **You can use `python` now. Because if the virtualenv is activated the `pyhon` refers to the python in the virtualenv**
 
+**The miner needs to be executed by sudo privileges!**
+
 To run the miner type `python miner.py` or `python3.9 miner.py` or `python3.8 miner.py`
 
 And Enjoy! If experience some errors let us know on our discord server!
