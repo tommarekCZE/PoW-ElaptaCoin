@@ -2,13 +2,13 @@
 Welcome to the official git repository of ElaptaCoin Proof of Work Miner!
 
 #### Here are features that the miner include:
-1. **Auto-Reconnect** - If some expection occur or connection would be lost the miner would restart it self. (The restarting could be interupted by pressing any key)
+1. **Auto-Reconnect** - If some expection occur or connection would be lost the miner would restart it self (The restarting could be interupted by pressing any key)
 
 2. **Rust hasher** - For better hashing performance we decided to code the hasher inside the Rust
 
-3. **One File** - Only one file `miner.py` needs to be executed. The hasher get's installed automatically
-
-4. **Auto Package Install** - The miner auto install all required packages
+3. **One File** - Only one file `miner.py` needs to be executed. The rest gets installed afterwards
+4. 
+5. **Auto Package Install** - The miner auto install all required packages
 
 #### Platform support
 1. Windows 10/11 (Theoretically Windows 7)
