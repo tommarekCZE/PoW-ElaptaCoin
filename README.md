@@ -10,6 +10,13 @@ Welcome to the official git repository of ElaptaCoin Proof of Work Miner!
 
 4. **Auto Package Install** - The miner auto install all required packages
 
+#### Platform support
+1. Windows 10/11 (Theoretically Windows 7)
+2. Linux x32/x64
+3. ARM x64  (AArch64)
+
+
+
 
 # ElaptaCoin PoW Miner Setup Guide
 
