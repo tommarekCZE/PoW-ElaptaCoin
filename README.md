@@ -15,7 +15,8 @@ Welcome to the official git repository of ElaptaCoin Proof of Work Miner!
 2. Linux x32/x64
 3. ARM x64  (AArch64)
 
-
+#### Tech Support
+Our discord server: https://discord.gg/utfM8SZQHt
 
 
 # ElaptaCoin PoW Miner Setup Guide
