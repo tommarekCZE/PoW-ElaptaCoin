@@ -7,7 +7,7 @@ Welcome to the official git repository of ElaptaCoin Proof of Work Miner!
 2. **Rust hasher** - For better hashing performance we decided to code the hasher inside the Rust
 
 3. **One File** - Only one file `miner.py` needs to be executed. The rest gets installed afterwards
-4. 
+  e
 5. **Auto Package Install** - The miner auto install all required packages
 
 #### Platform support
