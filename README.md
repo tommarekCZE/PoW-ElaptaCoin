@@ -18,6 +18,7 @@ Welcome to the official git repository of ElaptaCoin Proof of Work Miner!
 #### Tech Support
 Our discord server: https://discord.gg/utfM8SZQHt
 
+#### **Disclaimer! Keep in mind the miner is still in BETA, lot issues while exiting the miner can occur!**
 
 # ElaptaCoin PoW Miner Setup Guide
 
